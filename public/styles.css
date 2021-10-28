@@ -1,0 +1,31 @@
+.heading {
+  color: white;
+}
+
+.headingblock {
+  width: fit-content;
+
+  margin: auto;
+  background-color: seagreen;
+  padding: 5px;
+  justify-content: center;
+}
+
+.emoji-block {
+  text-align: center;
+
+  background-color: honeydew;
+  color: hotpink;
+  width: 5rem;
+  padding: 25px;
+  margin: 50px;
+  height: auto;
+}
+
+.block {
+  display: flex;
+
+  flex-wrap: wrap;
+  margin: 10%;
+  padding: 15px;
+}
